@@ -1,3 +1,3 @@
 # Hangman
  
-open the file 'Hangman.pro' with QT.
+open the file `Hangman.pro` with QT.
